@@ -1,0 +1,1 @@
+# SobatLaundry adalah aplikasi laundry berbasis website memudahkan pelanggan yang menggunakan jasa laundry agar bisa mendapatkan informasi secara up-to-date mengenai outlet laundry yang tersedia di daerah terdekat dan juga memudahkan dalam proses pemesanan yang akan dibuat.
